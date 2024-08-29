@@ -12,6 +12,3 @@ Hi! I'm Inaara, a Computer Science college graduate looking to become a Software
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=inaara-jiwani&icon=3&color=1)](https://visitcount.itsvg.in)
